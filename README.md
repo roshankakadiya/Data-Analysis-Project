@@ -3,6 +3,8 @@
 
 This project depicts ATLIQ HARDWARE's sales insights in INDIA, which sells millions of products each year. To keep track of live sales and revenue/cost, I created a POWER BI report with a dashboard to see what sales have tendencies over the years and months.
 
+##Purpose
+To enable proper decision and strategy making by unlocking sales insights that are not available to marketing/sales teams.
 
 ## Process
 
